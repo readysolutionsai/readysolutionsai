@@ -1,4 +1,4 @@
-# Ready Solutions<span style="color:#CC785C">.</span>
+# Ready Solutions AI<span style="color:#CC785C">.</span>
 
 **Claude-First AI Integration.** I help teams ship with Claude faster.
 
