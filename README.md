@@ -1,16 +1,57 @@
-## Hi there 👋
+# Ready Solutions<span style="color:#CC785C">.</span>
 
-<!--
-**readysolutionsai/readysolutionsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Claude-First AI Integration.** I help teams ship with Claude faster.
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/readysolutions.ai-1A1917?style=for-the-badge&labelColor=1A1917)](https://readysolutions.ai)
+[![Blog](https://img.shields.io/badge/Blog-CC785C?style=for-the-badge&labelColor=CC785C)](https://readysolutions.ai/blog/)
+[![Assessment](https://img.shields.io/badge/Free_Readiness_Assessment-FAF9F5?style=for-the-badge&labelColor=FAF9F5&color=1A1917)](https://readysolutions.ai/assess/)
+[![Book a call](https://img.shields.io/badge/Book_15--min_intro_call-1A1917?style=for-the-badge&labelColor=CC785C)](https://calendly.com/hello-readysolutions/30min)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### <img src="https://api.iconify.design/heroicons:command-line.svg?color=%236B665F&width=22" height="22" align="center"> What I do
+
+I build the workflows, integrations, and training that turn Claude from "the chatbot we pay for" into a system your team uses every day.
+
+- **Build** — Claude Code setup, custom skills, MCP integrations, agentic workflows, Claude API development
+- **Train** — Adoption programs that stick because they match the work your team actually does
+- **Advise** — 1-hour consultations to multi-session workshops
+
+Signal: **16x development acceleration** on quarterly initiatives. **Five sprints compressed into one.** Dozens trained across engineering, QA, product, and leadership.
+
+### <img src="https://api.iconify.design/heroicons:sparkles.svg?color=%236B665F&width=22" height="22" align="center"> Free tools
+
+- **[AI Readiness Assessment](https://readysolutions.ai/assess/)** — 10 minutes, 5 dimensions scored, personalized recommendations. No email required to see results. Built with Claude — a working example of what I help teams build.
+- **[The Blog](https://readysolutions.ai/blog/)** — Deep reads on Claude, agentic workflows, MCP, and AI strategy. Zero "10 ChatGPT prompts" listicles.
+
+### <img src="https://api.iconify.design/heroicons:document-text.svg?color=%236B665F&width=22" height="22" align="center"> Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [The free Claude Code skill that audits your CLAUDE.md, hooks, and subagents for Opus 4.7 breaking changes](https://readysolutions.ai/blog/2026-04-26-opus-4-7-compatibility-scanner-claude-code/)
+- [Where Does That Rule Go? A Decision Tree for CLAUDE.md, Settings, Skills, and Hooks in Claude Code](https://readysolutions.ai/blog/2026-04-26-claude-code-rule-routing-decision-tree/)
+- [Claude Design: The Handoff Is the Feature](https://readysolutions.ai/blog/2026-04-24-claude-design-handoff-not-canvas/)
+- [Opus 4.7 vs 4.6 in Claude Code: Where the Upgrade Shows Up, and When xhigh Is Worth the Tokens](https://readysolutions.ai/blog/2026-04-24-opus-4-7-claude-code-effort-ladder/)
+- [Claude Opus 4.7: Your Eval Harness Can't See What Just Changed](https://readysolutions.ai/blog/2026-04-17-claude-opus-4-7-deep-dive/)
+<!-- BLOG-POST-LIST:END -->
+
+[Browse all posts →](https://readysolutions.ai/blog/)
+
+### <img src="https://api.iconify.design/heroicons:user.svg?color=%236B665F&width=22" height="22" align="center"> Who I am
+
+20+ years in software engineering. The last 7 as a senior engineer turned engineering leader at an enterprise organization. 18 months deploying Claude daily. 3.5 years of LLM engineering.
+
+I started Ready Solutions because I kept having the same conversation with engineering leaders at other companies: *"We bought Claude and nobody knows what to do with it."* That's the problem I solve.
+
+### <img src="https://api.iconify.design/heroicons:folder.svg?color=%236B665F&width=22" height="22" align="center"> What you'll find here
+
+Public skills, scripts, and reference implementations from client work and side projects. Most production work is private — what's open-sourced here is what other Claude practitioners can actually use.
+
+### <img src="https://api.iconify.design/heroicons:link.svg?color=%236B665F&width=22" height="22" align="center"> Connect
+
+- [readysolutions.ai](https://readysolutions.ai)
+- [Book a free 15-min intro call](https://calendly.com/hello-readysolutions/30min)
+- [Send a message via the contact form](https://readysolutions.ai/#contact)
+
+---
+
+> *Independent consultancy. Not partnered with, affiliated with, or endorsed by Anthropic. I'm just really good at Claude.*
