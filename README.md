@@ -1,4 +1,5 @@
-# Ready Solutions <span style="color:#CC785C">AI</span>
+# Ready Solutions <svg xmlns="http://www.w3.org/2000/svg" width="32" height="20"><text y="16" font-size="16" fill="#CC785C">AI</text></svg>
+
 
 **Claude-First AI Integration.** I help teams ship with Claude faster.
 
