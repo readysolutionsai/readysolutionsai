@@ -26,13 +26,7 @@ Signal: **16x development acceleration** on quarterly initiatives. **Five sprint
 
 ### <img src="https://api.iconify.design/heroicons:document-text.svg?color=%236B665F&width=22" height="22" align="center"> Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-- [The free Claude Code skill that audits your CLAUDE.md, hooks, and subagents for Opus 4.7 breaking changes](https://readysolutions.ai/blog/2026-04-26-opus-4-7-compatibility-scanner-claude-code/)
-- [Where Does That Rule Go? A Decision Tree for CLAUDE.md, Settings, Skills, and Hooks in Claude Code](https://readysolutions.ai/blog/2026-04-26-claude-code-rule-routing-decision-tree/)
-- [Claude Design: The Handoff Is the Feature](https://readysolutions.ai/blog/2026-04-24-claude-design-handoff-not-canvas/)
-- [Opus 4.7 vs 4.6 in Claude Code: Where the Upgrade Shows Up, and When xhigh Is Worth the Tokens](https://readysolutions.ai/blog/2026-04-24-opus-4-7-claude-code-effort-ladder/)
-- [Claude Opus 4.7: Your Eval Harness Can't See What Just Changed](https://readysolutions.ai/blog/2026-04-17-claude-opus-4-7-deep-dive/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [The free Claude Code skill that audits your CLAUDE.md, hooks, and subagents for Opus 4.7 breaking changes](https://readysolutions.ai/blog/2026-04-26-opus-4-7-compatibility-scanner-claude-code/)- [Where Does That Rule Go? A Decision Tree for CLAUDE.md, Settings, Skills, and Hooks in Claude Code](https://readysolutions.ai/blog/2026-04-26-claude-code-rule-routing-decision-tree/)- [Claude Design: The Handoff Is the Feature](https://readysolutions.ai/blog/2026-04-24-claude-design-handoff-not-canvas/)- [Opus 4.7 vs 4.6 in Claude Code: Where the Upgrade Shows Up, and When xhigh Is Worth the Tokens](https://readysolutions.ai/blog/2026-04-24-opus-4-7-claude-code-effort-ladder/)- [Claude vs Claude Code: How to Pick the Right One &lpar;and When to Use Both&rpar;](https://readysolutions.ai/blog/2026-04-20-claude-vs-claude-code-when-to-use-each/)<!-- BLOG-POST-LIST:END -->
 
 [Browse all posts →](https://readysolutions.ai/blog/)
 
